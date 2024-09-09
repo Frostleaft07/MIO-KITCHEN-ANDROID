@@ -28,8 +28,8 @@
   ***
   ### Email pengembang: 3590361911@qq.com
   ### Grup QQ: 836898509
-  ### Grup TG: [Obrolan Dapur Android Mio](https://t.me/mio_android_kitchen_group)
-  ### Saluran TG: [Pembaruan Dapur Android Mio](https://t.me/mio_android_kitchen)
+  ### Grup Telegram: [Obrolan Dapur Android Mio](https://t.me/mio_android_kitchen_group)
+  ### Saluran Telegram: [Pembaruan Dapur Android Mio](https://t.me/mio_android_kitchen)
   ***
   # Kontributor:
   ### Bahasa Inggris & Jepang: [ookiineko](https://github.com/ookiineko)
