@@ -35,6 +35,7 @@
 # Contributors:
 ### English & Japanese locale: [ookiineko](https://github.com/ookiineko)
 ### Japanese README translator: [reindex-ot](https://github.com/reindex-ot)
+### Indonesian README translator: [frost](https://github.com/Frostleaft07)
 ***
 ### Thanks to people like you for helping out!!
 ***
