@@ -1,0 +1,9 @@
+sudo apt update -y ; sudo apt install sdkmanager android-sdk -y
+
+sudo sdkmanager "build-tools;29.0.2" ; sudo sdkmanager "platforms;android-28"
+
+#sdk licenses
+SDKMANAGER="/usr/bin/sdkmanager"
+
+echo "y" | $SDKMANAGER --licenses
+#end
