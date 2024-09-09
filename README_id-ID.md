@@ -34,6 +34,7 @@
   # Kontributor:
   ### Bahasa Inggris & Jepang: [ookiineko](https://github.com/ookiineko)
   ### Penerjemah README Jepang: [reindex-ot](https://github.com/reindex-ot)
+### Indonesian README translator: [frost](https://github.com/Frostleaft07)
   ***
   ### Terima kasih atas bantuan Anda!
   ***
