@@ -8,6 +8,7 @@
 ## Localization
 ### 日本語: [ja-JP](README_ja-JP.md)
 ### 中文: [zh-CN](README_zh-CN.md)
+### 印尼: [id-ID](README_id-ID.md)
 ***
 ## Features
 * Unpack boot, dtbo, ext4, erofs, payload, logo and so on
