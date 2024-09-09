@@ -5,5 +5,5 @@ sudo sdkmanager "build-tools;29.0.2" ; sudo sdkmanager "platforms;android-28"
 #sdk licenses
 SDKMANAGER="/usr/bin/sdkmanager"
 
-echo "y" | $SDKMANAGER --licenses
+echo "y" | sudo $SDKMANAGER --licenses
 #end
