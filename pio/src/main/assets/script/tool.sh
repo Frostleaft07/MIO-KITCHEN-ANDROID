@@ -224,7 +224,7 @@ if [ "$(utils gettype $zml/$xm/${i}.img)" = "sparse" ];then
 [[ "${TEXT_LANG}" = "zh" ]] && echo "[img]到[dat]:${i}.img"
 [[ "${TEXT_LANG}" = "en" ]] && echo "[img] to [dat]:${i}.img"
 [[ "${TEXT_LANG}" = "ja" ]] && echo "[img] を [dat] に変換：${i}.img"
-utils img2sdat $zml/$xm/${i}.img $zml/$xm/ 4 ${i}
+python3 /data/local/img2sdat/img2sdat.py $zml/$xm/${i}.img $zml/$xm/ 4
 if [ -f $zml/$xm/${i}.new.dat ];then
 [ $del = 1 ]&&rm -rf $zml/$xm/${i}.img
 fi
