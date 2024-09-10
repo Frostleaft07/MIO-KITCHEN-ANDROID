@@ -52,3 +52,17 @@ if [[ -f "$script_path" ]]; then
 else
     echo "${script_path} is missing" 1>&2
 fi
+# python3 and img2sdat
+if [ ! -d "/data/local/py" ]; then
+    echo "installing python3..." 1>&2
+    cd $bin
+    mkdir -p "/data/local/py"
+    unzip python3.zip -d /data/local/py > /dev/null 2>&1
+fi
+if [ ! -d "/data/local/img2sdat" ]; then
+    echo "extract img2sdat..." 1>&2
+    cd $bin
+    mkdir -p "/data/local/img2sdat"
+    unzip img2sdat.zip -d /data/local/img2sdat > /dev/null 2>&1
+fi
+# end python3 & img2sdat
