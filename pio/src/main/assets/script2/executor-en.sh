@@ -37,7 +37,7 @@ export LD_LIBRARY_PATH=$START_DIR/bin/:/data/data/com.mio.kitchen/files/bin
 # 添加toolkit添加为应用程序目录
 if [[ ! "$TOOLKIT" = "" ]]; then
     # export PATH="$PATH:$TOOLKIT"
-    PATH="$TOOLKIT:$PATH"
+    PATH="$TOOLKIT:$PATH:/data/local/py/usr/bin:/data/local/py"
 fi
 
 # 判断是否有指定执行目录，跳转到起始目录
