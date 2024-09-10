@@ -102,8 +102,8 @@
         <set>script/tool.sh gszh</set>
         <param name="del" label="Remove the source file on finish" type="switch" />
         <param name="gs" label="Output Format" desc="erofs is not supported atm" >
-             <option value="dat" >DAT</option>
-             <option value="br" >BR</option>
+             <option value="dat" >dat</option>
+             <option value="br" >br</option>
              <option value="sparse" >sparse</option>
              <option value="raw" >raw</option>
         </param>
