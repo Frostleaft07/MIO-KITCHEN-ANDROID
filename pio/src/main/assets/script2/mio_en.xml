@@ -50,7 +50,7 @@
         </param>
         <param name="jxys" label="Resize image to optimal" type="switch" />
         <param name="del" label="Delete source file on finish" type="switch" />
-         <param name="zhua" label="Erofs＜＝＞Ext" type="switch" />
+         <param name="zhua" label="Erofs-Ext" type="switch" />
         <param name="Reading" label="Support mounting as" desc="Note: only for packing ext4"  >
              <option value="ro">Read-Only</option>
              <option value="rw">Writable</option>
