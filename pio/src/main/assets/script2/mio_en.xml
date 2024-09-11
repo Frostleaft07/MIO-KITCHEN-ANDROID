@@ -53,7 +53,7 @@
          <param name="zhua" label="Erofs-Ext" type="switch" />
         <param name="Reading" label="Support mounting as" desc="Note: only for packing ext4"  >
              <option value="ro">Read-Only</option>
-             <option value="rw">Writable</option>
+             <option value="rw">Read-Write</option>
         </param>
         <param name="psize" label="Image Size" desc="Note: only for packing ext4" >
              <option value="auto" >Auto</option>
