@@ -1,49 +1,49 @@
-#MIO-DAPUR-SUMBER-ANDROID #
-  #### MIO-DApur versi Android
-  > [!PERHATIAN]
-  > Dilarang keras menggunakan software ini untuk tujuan komersial tanpa izin!
+# MIO-KITCHEN-ANDROID-SOURCE #
+  #### MIO-KITCHEN versi Android
+  > [!CAUTION]
+  > Dilarang menggunakan aplikasi ini untuk tujuan komersial tanpa izin!
   ***
-  ## Alat ini menggunakan banyak proyek sumber terbuka, salut kepada pengembangnya!
+  ## Alat ini menggunakan banyak projek Open Source, Terima Kasih kepada para Developer!
   ***
-  ## Internasionalisasi
+  ## Lokalisasi
   ### Bahasa Jepang: [ja-JP](README_ja-JP.md)
   ### Bahasa Inggris: [en-US](README.md)
   ***
   ## Fungsi
-  * Buka kemasan logo payload boot dtbo ext4 erofs dan sejenisnya
-  *Paket boot dtbo ext4 erofs payload logo dan sejenisnya
+  * Unpack boot, dtbo, ext4, erofs, payload, logo dan seterusnya
+  * Unpack boot dtbo ext4 erofs payload logo dan seterusnya
   ***
   ## Didukung oleh [Mio Android Kitchen](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE) dan [Kr-Scripts](https://github.com/ColdWindScholar/kr-scripts)
   ***
   ## Keuntungan
-  * Patch Fs dan Konteks otomatis
-  *antarmuka pengguna GUI
+  * Patch fs_config dan fs_context otomatis
+  * Tampilan GUI
+  * Mendukung Plugin yang customizable, plus adalah manager for penginstalan and mengelola apapun
   * Mendukung analisis dan instalasi plug-in MPK khusus
-  * Pembaruan cepat, aman dan cepat
+  * Quick Update, Aman, Stabil, dan Cepat
   * Penerjemah MSH yang dikembangkan sendiri untuk menjalankan skrip MSH
-  * Mendukung pemutaran IMG dari ROM di bawah Android 8
+  * Mendukung Backwards Compatible Dengan Android 8 kebawah, dan Membuat file .IMG untuk versi tsb
   ***
   ***
   # Hubungi kami
   ***
   ### Email pengembang: 3590361911@qq.com
   ### Grup QQ: 836898509
-  ### Grup Telegram: [Obrolan Dapur Android Mio](https://t.me/mio_android_kitchen_group)
-  ### Saluran Telegram: [Pembaruan Dapur Android Mio](https://t.me/mio_android_kitchen)
+  ### Grup Telegram: [Mio Kitchen Group](https://t.me/mio_android_kitchen_Group)
+  ### Channel Telegram: [Mio Kitchen Updates](https://t.me/mio_android_kitchen)
   ***
   # Kontributor:
   ### Bahasa Inggris & Jepang: [ookiineko](https://github.com/ookiineko)
   ### Penerjemah README Jepang: [reindex-ot](https://github.com/reindex-ot)
-### Indonesian README translator: [frost](https://github.com/Frostleaft07)
+### Indonesian README translator: [frost](https://github.com/Frostleaft07) [nathannxx](https://github.com/nathannxx)
   ***
-  ### Terima kasih atas bantuan Anda!
+  ### Terima kasih atas bantuan kalian semua!
   ***
-  # tentang
+  # Tentang
   ***
-  ### MIO-DApur
+  ### MIO-KITCHEN
   ```
-  Gratis selamanya, pengguna terlebih dahulu
-  Alat yang hebat, ini dia!
+  Gratis selamanya, User nomor satu!
   Dikembangkan oleh tim MIO-KITCHEN
   ```
   #### ColdWindScholar(3590361911@qq.com) Semua hak dilindungi undang-undang ####
